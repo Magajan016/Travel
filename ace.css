@@ -1,0 +1,119 @@
+.main{
+    margin: 0;
+    padding: 0;
+}
+.site-color{   
+    background-image: radial-gradient(farthest-corner at 40px 40px,#f35 0%,#43e 100%);
+}
+.sol{
+    position:absolute;
+    padding-left:250px;
+    top:2%;
+}
+.price{
+    position:absolute;
+    padding-left:600px;
+    top:2%;
+}
+.learn{
+    position:absolute;
+    padding-left:800px;
+    top:2%;
+}
+.support{
+    position:absolute;
+    padding-left:1000px;
+    top:2%;
+}
+.about{
+    position:absolute;
+    padding-left:1200px;
+    top:2%;
+}
+.blog{
+    position:absolute;
+    padding-left:1250px;
+    top:20%;
+}
+
+nav ul{
+    display:flex;
+    padding-left: 850px;
+}
+nav button{
+    font-family: 'Courier New', Courier, monospace;
+    padding-right: 40px;
+    text-decoration: none;
+}
+.contact{
+    color: aliceblue;
+    padding: 0.5cm;
+    padding-left: 30%;
+}
+.get{
+    background-origin: padding-box;
+    padding:10px 10px;
+    margin-top: 50px;
+}
+
+.text-align{
+     margin-top: -3%;
+}
+.align_correct{
+    box-shadow: 4px 5px 15px black;
+    background-color: aquamarine;
+    border-radius: 20px;
+    margin-top: -400px;
+    margin-bottom: 100px;
+    margin-left: 600px;
+    margin-right: 50px;
+    padding-left: 5%;
+
+}
+.number{
+    box-shadow: 4px 5px 15px black;
+    background-color:blanchedalmond;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-right: 900px;
+    padding-left: 5%;
+}
+.align_correct input{
+    border-radius: 0.8em;
+    min-height: 40px;
+    min-width: 500px;
+}
+.align_correct textarea{
+    border-radius: 0.8em;
+    min-height: 80px;
+    min-width: 600px;
+}
+
+.f1{
+    padding-top:3% ;
+}
+.f2{
+    padding-top:3% ;
+
+}
+.f3{
+    padding-top:3% ;
+}
+.form_label{
+    padding-bottom: 10%;
+}
+.align-button{
+    margin-top:5%;
+    margin-left: 25%;
+    background-color:transparent;
+    border-radius: 20%;
+    border-color: aquamarine ;
+    
+}
+.body button:hover{
+    color:#f35;
+    transform: scale(1.1);
+    
+}

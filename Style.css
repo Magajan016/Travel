@@ -1,0 +1,8 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 5vh;
+    background-image: linear-gradient(to right, rgb(12, 8, 255) , rgb(192, 1, 1));
+    color: white;
+  }
